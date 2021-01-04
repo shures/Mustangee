@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56f24ccb-bdcd-4cae-9649-547c897204cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/admin/components/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/admin/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/explore/components/directions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/explore/components/explore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/explore/components/location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/explore/components/near_place.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/explore/components/openImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/explore/css/direction.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/explore/css/near_place.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/explore/css/openImage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/explore/css/photos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/explore/css/place.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/home/components/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/home/components/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/home/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/icons/001-heart (copy).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/icons/002-heart-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/icons/bitmap1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/icons/chat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/icons/drop-down-menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/icons/fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/icons/heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/icons/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/logos/path5242.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/dhumba_lake1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/dhumba_lake2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/dhumba_lake3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/dhumba_lake4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/dhumba_lake5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/dhumba_lake6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/dhumba_lake7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/dhumba_lake8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/nupsang_kharka1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/nupsang_kharka10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/nupsang_kharka2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/nupsang_kharka3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/nupsang_kharka4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/nupsang_kharka5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/nupsang_kharka6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/nupsang_kharka7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/nupsang_kharka8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/nupsang_kharka9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/yhara_zho_view_point1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/yhara_zho_view_point2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/yhara_zho_view_point3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/yhara_zho_view_point4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/original/yhara_zho_view_point5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/dhumba_lake1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/dhumba_lake2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/dhumba_lake3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/dhumba_lake4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/dhumba_lake5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/dhumba_lake6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/dhumba_lake7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/dhumba_lake8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/nupsang_kharka1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/nupsang_kharka10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/nupsang_kharka2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/nupsang_kharka3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/nupsang_kharka4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/nupsang_kharka5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/nupsang_kharka6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/nupsang_kharka7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/nupsang_kharka8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/nupsang_kharka9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/yhara_zho_view_point1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/yhara_zho_view_point2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/yhara_zho_view_point3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/yhara_zho_view_point4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/photos/thumb/yhara_zho_view_point5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/shared/components/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/shared/components/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/shared/components/shadow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/shared/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/shared/css/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/shared/css/shadow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/update/components/update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/update/css/update.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/user_upload/75 dhumba2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/user_upload/dhumba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/user_upload/dhumba_lake1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/user_upload/dhumba_lake_thumbnail1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/user_upload/dhumba_lake_thumbnail7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/user_upload/nupsang_kharka_thumbnail10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/user_upload/nupsang_kharka_thumbnail2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/app/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/app/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/app/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/app/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/app/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/app/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fontend/app" beforeDir="false" afterPath="$PROJECT_DIR$/Fontend/app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fontend/app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Fontend/app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fontend/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Fontend/app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fontend/app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fontend/app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Fontend/app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fontend/app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fontend/app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Fontend/app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fontend/app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Fontend/app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fontend/app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fontend/app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fontend/app/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1maVf1La2zvfMsR3qf753R0kOeJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Fontend/app/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Mustangee Project\Fontend\app\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56f24ccb-bdcd-4cae-9649-547c897204cc" name="Default Changelist" comment="" />
+      <created>1609731789565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609731789565</updated>
+      <workItem from="1609731791828" duration="1078000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
