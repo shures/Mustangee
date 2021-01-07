@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="e1dfb57c-d36d-4969-b411-56a57c7b2dee" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/admin/components/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/admin/components/content/add_location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/admin/components/content/delete_location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/admin/components/content/update_location.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/admin/components/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/admin/components/menu.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/admin/css/admin.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/admin/css/login.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Fontend/app/src/app/explore/components/directions.js" afterDir="false" />
@@ -115,11 +119,20 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Fontend/app" />
   </component>
   <component name="ProjectId" id="1mhHtc3iEcfjcuRqj8EvK2xI5xk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -138,6 +151,7 @@
       <recent name="F:\Mustangee Project\Backend\app\public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Mustangee Project\Fontend\app\src\app\admin\components" />
       <recent name="F:\Mustangee Project\Backend\app" />
     </key>
   </component>
@@ -155,7 +169,7 @@
       <workItem from="1609939126244" duration="104000" />
       <workItem from="1609939310016" duration="348000" />
       <workItem from="1609941571167" duration="11559000" />
-      <workItem from="1610018572706" duration="20380000" />
+      <workItem from="1610018572706" duration="20699000" />
     </task>
     <servers />
   </component>
