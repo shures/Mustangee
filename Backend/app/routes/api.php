@@ -17,3 +17,9 @@ use Illuminate\Support\Facades\Route;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+Route::group(['prefix' => 'admin'], function() {
+    Route::post('/', 'App\Http\Controllers\Admin\AuthController@login');
+//    Route::post('/some', 'App\Http\Controllers\Admin\AuthController@upload')->middleware('auth:sanctum');
+    Route::post('/add_location', 'App\Http\Controllers\Admin\ContentController@add_location');
+});

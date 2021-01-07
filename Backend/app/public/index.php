@@ -4,7 +4,7 @@ use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
 define('LARAVEL_START', microtime(true));
-
+define ('FILE_ROOT', realpath(dirname(__FILE__)));
 /*
 |--------------------------------------------------------------------------
 | Check If Application Is Under Maintenance
